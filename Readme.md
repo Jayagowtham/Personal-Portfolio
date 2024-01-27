@@ -9,3 +9,15 @@
 ## Media Query
 - and this website is made suitable for you mobile version too.
 ## All the Sections are mentioned separatly and explained. If any doubt please contact me through GitHub.
+
+### Result Img of Portfolio:
+- Intro/Starting
+![Result_img_portfolio](Readme_Portfolio_beginning.jpg)
+- Profile
+![Result_img_portfolio](Readme_Portfolio_Aboutinfo.jpg)
+- Experience
+![Result_img_portfolio](Readme_Portfolio_Experience.jpg)
+- Projects
+![Result_img_portfolio](Readme_Portfolio_projects.jpg)
+- Contact Info
+![Result_img_portfolio](Readme_Portfolio_contact.jpg)
